@@ -8,5 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: # ADD Config Repository
+          # ADD Config Repository
+          uri: https://github.com/Dokcer-DevLink/spring-configuration
           default-label: main
